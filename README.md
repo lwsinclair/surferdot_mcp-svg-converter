@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-surferdot-mcp-svg-converter-badge.png)](https://mseep.ai/app/mcp-mirror-surferdot-mcp-svg-converter)
+
 # MCP SVG Converter
 
 [![npm version](https://img.shields.io/npm/v/mcp-svg-converter.svg)](https://www.npmjs.com/package/mcp-svg-converter)
